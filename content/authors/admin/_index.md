@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Bingus
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Binguser
+last_name: Bingelli
 
 # Is this the primary user of the site?
 superuser: true
@@ -21,7 +21,7 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
+  - ASS
   - Computational Linguistics
   - Information Retrieval
 
