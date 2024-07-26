@@ -8,8 +8,8 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Fartus
+        Ass
       image:
         filename: welcome.jpg
       text: |
